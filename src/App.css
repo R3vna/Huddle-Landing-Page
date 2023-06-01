@@ -1,4 +1,12 @@
 #root {
-  height: 100vh;
   margin: 0 auto;
+  height: 100%;
+}
+
+html{
+  height: 100vh;
+}
+
+body{
+  height: 100%;
 }
